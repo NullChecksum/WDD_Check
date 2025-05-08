@@ -22,5 +22,10 @@
 
 Install dependencies with:
 
-```bash
+```
 pip install -r requirements.txt
+```
+
+Example:
+
+![{AAEF9A19-2862-437B-9E44-BB790F721E2D}](https://github.com/user-attachments/assets/cd8e3250-ebb1-481c-95eb-b88958d324a8)
