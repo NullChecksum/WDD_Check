@@ -1,10 +1,10 @@
-# 🛰️ Domain and Dmarc Analyzer
+#  Domain and Dmarc Analyzer
 
 **Domain Analyzer** is a powerful and extensible Python script to extract and audit DNS, WHOIS, and email authentication records (SPF, DKIM, DMARC) for one or multiple domains.
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  DNS Lookup (A, AAAA, MX, NS, TXT, CNAME, PTR)
 -  Full WHOIS Inspection (registrant, registrar, contact info)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install dependencies with:
 
